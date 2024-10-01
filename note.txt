@@ -1,0 +1,17 @@
+安裝專案包
+pnpm i
+
+切換到最新版本
+nvm use node  
+
+啟動開發伺服器
+pnpm dev
+
+
+------
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/qaz7416/nextjs-dashboard.git
+git push -u origin main
